@@ -2,10 +2,10 @@
   "name": "burger-logger",
   "version": "1.0.0",
   "description": "Application for eating burgers",
-  "main": "server.js",
+  "main": "burgerServer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node burgerServer.js"
   },
   "repository": {
     "type": "git",
